@@ -8,3 +8,5 @@
 
 - git restore "nombre archivo" / restaura el archivo a la ultima version subida
 - git checkout -b "nombre rama" / hace un cambio de rama
+
+- git pull / recupera los cambio de una rama al equipo local
