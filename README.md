@@ -7,6 +7,6 @@
 - git push -u origin "rama" /sube los cambios a la rama con -u conecto la rama para siempre
 
 - git restore "nombre archivo" / restaura el archivo a la ultima version subida
-- git checkout -b "nombre rama" / hace un cambio de rama
+- git checkout -b "nombre rama" / hace un cambio de rama nueva
 
 - git pull / recupera los cambio de una rama al equipo local
